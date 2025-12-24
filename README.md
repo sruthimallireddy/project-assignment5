@@ -7,7 +7,7 @@ Quick start:
 1. npm install
 2. npm run dev
 
-Open http://localhost:5173
+Open https://tda5.netlify.app/
 
 Files added:
 - `src/hooks/useFetch.js` — the custom hook
